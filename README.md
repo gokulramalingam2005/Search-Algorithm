@@ -127,5 +127,11 @@ else:
 
 (iii) ![OUTPUT](OUTPUT.png)
 
+
+<br>
+<br>
+<br>
+<br>
+
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
