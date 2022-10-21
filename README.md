@@ -78,17 +78,6 @@ else:
     print("Element found at index: ",result)
 ```
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 Developed by: your name: KAMALESH SV
@@ -118,6 +107,18 @@ else:
     print(arr)
     print("Element found at index: ",result)
 ```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 
 (i). ![OUTPUT](OUTPUT2.png)
